@@ -1,0 +1,16 @@
+# 统一使用 LF：模块脚本要在 Android 的 /system/bin/sh 下执行，CRLF 会导致执行失败
+* text=auto eol=lf
+
+*.sh       text eol=lf
+*.prop     text eol=lf
+*.default  text eol=lf
+*.java     text eol=lf
+*.xml      text eol=lf
+*.md       text eol=lf
+*.awk      text eol=lf
+
+*.apk      binary
+*.dex      binary
+*.zip      binary
+*.png      binary
+*.keystore binary

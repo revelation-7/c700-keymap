@@ -1,0 +1,16 @@
+# 构建工具链（JDK + Android SDK + platform，几百 MB，不入库）
+android/
+
+# 构建产物
+out/
+app/build/
+daemon/build/
+
+# 编辑器 / 系统
+*.swp
+*~
+Thumbs.db
+.DS_Store
+
+# 成品包通过 GitHub Releases 发布，不入库（本地构建仍输出到 release/）
+release/

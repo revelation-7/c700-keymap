@@ -1,0 +1,6 @@
+id=c700-keymap
+name=C700 按键映射
+version=1.0.0
+versionCode=1
+author=c700-keymap
+description=把联想 C700 的左背键、右背键、自定义键映射成任意按键：截屏、手柄按键、十字键、连发等。在应用界面里改完立即生效，默认 LS / RS / 截屏。

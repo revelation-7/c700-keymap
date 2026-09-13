@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">C700 KeyMap</string>
+    <string name="a11y_desc">Remaps gamepad back/custom keys (F10/F11/F12) to any keycode. Enable and configure via /data/adb/c700-keymap/config or the SET_CONFIG broadcast.</string>
+</resources>
